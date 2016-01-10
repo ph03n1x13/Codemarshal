@@ -2,6 +2,7 @@
 1. finding the nth highest and lowest number from an unsorted list/array
 only using variables and changing the order of array .........
 2. using the same technique we can find the second highest number also
+[+]problem statement:https://algo.codemarshal.org/problems/556b5a1e9c5e850300c49cac
 '''
 
 import random
